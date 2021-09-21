@@ -3,9 +3,11 @@
 Tutorial with more information: https://www.youtube.com/watch?v=Z5iWr6Srsj8 
 
 ### Main files:
-App.tsx
-TextField.tsx
-Counter.tsx
+- App.tsx
+
+- TextField.tsx
+
+- Counter.tsx
 
 
 `yarn start`
